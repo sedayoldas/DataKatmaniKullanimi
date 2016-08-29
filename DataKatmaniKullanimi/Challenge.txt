@@ -1,0 +1,6 @@
+﻿ürün ekle butonu seçilen bir kategorinin CategoryID bilgisini alıp
+yeni bir form açarak bu formun içine aktarıyor.
+ÜRün adı
+Stoğu
+Fiyatı
+ve CategoryID si Products tablosuna eklenecek.
